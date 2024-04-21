@@ -81,7 +81,7 @@ h3 {
 .navegador-principal {
     grid-column: 1/2;
     display: flex;
-    justify-content: center; /* Cambiado a flex-start para alinearse al principio */
+    justify-content: center;
     align-items: center;
     gap: 1.5rem;
     text-transform: uppercase;
